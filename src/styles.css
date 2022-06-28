@@ -1,0 +1,36 @@
+body {
+  display: block;
+  max-width: 800px;
+  background: #f4e5c2;
+}
+
+h1 {
+  text-align: center;
+  font-size: 80px;
+  font-style: oblique;
+}
+
+p {
+  text-align: center;
+  font-size: 28px;
+}
+
+footer {
+  text-align: center;
+}
+
+footer a {
+  text-align: center;
+  margin: 0 10px;
+  text-decoration: none;
+  color: black;
+}
+footer a:hover {
+  text-decoration: underline;
+}
+
+img {
+  display: block;
+  margin: 30px auto;
+  max-width: 100%;
+}
